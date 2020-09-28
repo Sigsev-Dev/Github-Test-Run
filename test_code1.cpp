@@ -9,3 +9,6 @@ int main()
 	{
 	cout<<"Github Test Run "<<i+1<<"\n;
         }
+    return 0;//added return type to the function
+
+}
